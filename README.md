@@ -1,4 +1,4 @@
-# Simple-Elevator
+# Simple-Elevator With PLC
 Basit Asansör (Simple Elevator)
 Main:
 ![Screenshot_1](https://github.com/user-attachments/assets/8a3e9d32-f77e-4495-8c5d-0456f18a11c5)
