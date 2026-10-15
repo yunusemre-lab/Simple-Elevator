@@ -1,5 +1,10 @@
 # Simple-Elevator With PLC
 Basit Asansör (Simple Elevator)
+
+Plc-Sim
+<img width="800" height="621" alt="Windows10x64-VMwareWorkstation2026-10-1511-40-47-ezgif com-video-to-gif-converter (1)" src="https://github.com/user-attachments/assets/d6243aae-b887-4a94-a1da-9ccdfa118338" />
+
+
 Main:
 ![Screenshot_1](https://github.com/user-attachments/assets/8a3e9d32-f77e-4495-8c5d-0456f18a11c5)
 ![Screenshot_2](https://github.com/user-attachments/assets/2ad16d1d-dd84-4ef6-8fcd-87d3b797b289)
@@ -22,5 +27,3 @@ FB4 (Kapı Durum):
 ![Screenshot_19](https://github.com/user-attachments/assets/613f000c-d0dc-43b1-a0b7-3e445652549d)
 FB3 (Kat Durum):
 ![Screenshot_20](https://github.com/user-attachments/assets/96813aa2-2b61-4f20-88a7-cb7643622c16)
-Plc-Sim
-![Screenshot_21](https://github.com/user-attachments/assets/f448684f-a5bf-494d-b7bf-2d7b6b9b54c3)
