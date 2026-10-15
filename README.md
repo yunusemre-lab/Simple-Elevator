@@ -1,7 +1,8 @@
 # Simple-Elevator With PLC
 Basit Asansör (Simple Elevator)
 
-Plc-Sim
+Plc-Sim:
+
 <img width="800" height="621" alt="Windows10x64-VMwareWorkstation2026-10-1511-40-47-ezgif com-video-to-gif-converter (1)" src="https://github.com/user-attachments/assets/d6243aae-b887-4a94-a1da-9ccdfa118338" />
 
 
