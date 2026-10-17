@@ -27,7 +27,7 @@ Bu proje; kat çağrı butonları, kabin içi kat seçimleri, sınır switch’l
 
 ### 1. Ana Kontrol Blokları (Main OB1)
 
-**Network 1 - 4: Kat Çağrılarının Hafızaya Alınması ve Mühürleme Mantığı**
+**Network 1 : Kat Çağrılarının Hafızaya Alınması ve Mühürleme Mantığı**
 ![Main Network 1](https://github.com/user-attachments/assets/8a3e9d32-f77e-4495-8c5d-0456f18a11c5)
 ![Main Network 2](https://github.com/user-attachments/assets/2ad16d1d-dd84-4ef6-8fcd-87d3b797b289)
 ![Main Network 3](https://github.com/user-attachments/assets/a630ab8b-1bd0-48d6-a544-5b248641460a)
