@@ -33,19 +33,19 @@ Bu proje; kat çağrı butonları, kabin içi kat seçimleri, sınır switch’l
 ![Main Network 3](https://github.com/user-attachments/assets/a630ab8b-1bd0-48d6-a544-5b248641460a)
 ![Main Network 4](https://github.com/user-attachments/assets/302a5955-e52f-45e8-9b5e-050d265ab746)
 
-**Network 5 - 8: Yukarı / Aşağı Motor Hareket Koşulları ve Kilitler**
+Yukarı / Aşağı Motor Hareket Koşulları ve Kilitler**
 ![Main Network 5](https://github.com/user-attachments/assets/9167c6be-b983-405a-b22e-c1cbb5aaea6d)
 ![Main Network 6](https://github.com/user-attachments/assets/85cd229a-3822-4cec-8b7a-7998fc01eb16)
 ![Main Network 7](https://github.com/user-attachments/assets/c12756bb-24df-4b30-b62c-9ebcb5289e7f)
 ![Main Network 8](https://github.com/user-attachments/assets/ae7b1c5c-f5e9-449d-89f0-02dced07d081)
 
-**Network 9 - 12: Durdurma, Sınır Anahtarları ve Emniyet Devreleri**
+ Durdurma, Sınır Anahtarları ve Emniyet Devreleri**
 ![Main Network 9](https://github.com/user-attachments/assets/a5bf1191-0bed-4ad5-879a-4efb9bb63e60)
 ![Main Network 10](https://github.com/user-attachments/assets/bb9ab23c-4786-4ef9-ba97-9b90a186bd5c)
 ![Main Network 11](https://github.com/user-attachments/assets/506a34ea-e783-4fc5-9eee-734938c454cc)
 ![Main Network 12](https://github.com/user-attachments/assets/8f2a874d-48ae-47e0-9297-9dde15b8c16f)
 
-**Network 13 - 16: Fonksiyon Blok Çağrıları (FB3 & FB4 Entegrasyonu)**
+Fonksiyon Blok Çağrıları (FB3 & FB4 Entegrasyonu)**
 ![Main Network 13](https://github.com/user-attachments/assets/b1c0df9c-1b2c-46cf-baa7-1033f477b6f0)
 ![Main Network 14](https://github.com/user-attachments/assets/5705baad-c20f-430d-bc12-3f65e464ffd1)
 ![Main Network 15](https://github.com/user-attachments/assets/55e4f1b8-d14f-4647-b343-c29a8a4699a2)
